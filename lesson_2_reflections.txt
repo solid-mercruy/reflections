@@ -7,7 +7,7 @@ There are times that you want to try something, not sure if you want to keep it 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 merging two branches cause the codes modified separetly, get together and make a unified code.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-doing automatic on tiny changes makes time, but it is possible to lose some changes unwanted.
+What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges manually?
+doing automatic on tiny changes makes time, but it is possible to lose some changes unwantedly.
 
  
