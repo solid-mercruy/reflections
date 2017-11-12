@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+At the first hand, to keep my data safe. And secondly to share my work or get help in my work, meaning contribution.
+
