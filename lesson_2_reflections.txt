@@ -1,0 +1,13 @@
+How can you use the staging area to make sure you have one commit per logical change?
+with every change to the files on staging area, by running a status command, you can learn that it needs to be commited.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+There are times that you want to try something, not sure if you want to keep it on the main version of job. or you need to work on a totally different feature that makes a big different in the whole work.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+merging two branches cause the codes modified separetly, get together and make a unified code.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+doing automatic on tiny changes makes time, but it is possible to lose some changes unwanted.
+
+ 
