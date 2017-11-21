@@ -10,3 +10,6 @@ forks are just like cloning from github to github itself. we use forks when we h
 What is the benefit of having a copy of the last known state of the remote stored locally?
 to know about changes that might have been placed by other contributers.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+File sharing can be an option. Making changes to the files would be easier, but managing too many collaborators can be too tough.
+
